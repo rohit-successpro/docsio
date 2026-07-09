@@ -1,0 +1,13 @@
+{
+  "label": "Services Analytics",
+  "position": 6,
+  "collapsible": false,
+  "collapsed": false,
+  "customProps": {
+    "icon": "chart-line"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Turn operational and financial data into real-time insights with AI-powered analytics."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "label": "Expense Management",
+  "position": 5,
+  "collapsible": false,
+  "collapsed": false,
+  "customProps": {
+    "icon": "receipt"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Capture and approve expenses with AI-powered receipt processing and policy controls."
+  }
+}

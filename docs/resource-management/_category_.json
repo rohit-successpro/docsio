@@ -1,0 +1,13 @@
+{
+  "label": "Resource Management",
+  "position": 3,
+  "collapsible": false,
+  "collapsed": false,
+  "customProps": {
+    "icon": "users-three"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Plan capacity, track utilization, and optimize margins with real-time resource visibility."
+  }
+}

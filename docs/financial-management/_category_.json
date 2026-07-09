@@ -1,0 +1,13 @@
+{
+  "label": "Financial Management",
+  "position": 2,
+  "collapsible": false,
+  "collapsed": false,
+  "customProps": {
+    "icon": "credit-card"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Manage billing, invoicing, and revenue recognition for your service projects."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "label": "Time Tracking",
+  "position": 4,
+  "collapsible": false,
+  "collapsed": false,
+  "customProps": {
+    "icon": "clock-clockwise"
+  },
+  "link": {
+    "type": "generated-index",
+    "description": "Capture time efficiently with AI-powered timesheet automation and approval workflows."
+  }
+}
