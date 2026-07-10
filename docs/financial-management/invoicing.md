@@ -2,7 +2,7 @@
 title: "Invoicing & Revenue Recognition"
 sidebar_position: 2
 sidebar_custom_props:
-  icon: file-check
+  icon: invoice
 description: "Generate invoices from approved work and recognize revenue accurately with built-in compliance."
 ---
 
